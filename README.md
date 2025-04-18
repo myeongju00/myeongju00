@@ -1,7 +1,9 @@
 <div align="left">
   
+<!-- 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Myeongju%20Jung&fontSize=40&fontAlign=50&desc=Backend%20Developer&descSize=30&descAlign=50&descAlignY=30&animation=fadeIn)
 
+-->
 
 <!-- ### Hello ! -->
 #### 🙋🏻‍♀️ 협업과 피드백을 통해 성장하는 개발자 정명주입니다.
@@ -98,7 +100,7 @@
 </div>
 
 
-
+<!-- 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer)
-
+-->
 </div>
