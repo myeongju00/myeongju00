@@ -1,15 +1,17 @@
 <div align="left">
-  
 <!-- 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Myeongju%20Jung&fontSize=40&fontAlign=50&desc=Backend%20Developer&descSize=30&descAlign=50&descAlignY=30&animation=fadeIn)
-
 -->
+  
+### Hi there! 
 
-<!-- ### Hello ! -->
-### 🙋🏻‍♀️ 협업과 피드백을 통해 성장하는 개발자 정명주입니다.
-- 유지보수가 쉬운 코드를 지향하며, 사용자 중심의 설계를 중요하게 생각합니다.
-- 팀워크와 소통을 중요하게 여기며, 코드 리뷰와 문서화를 습관화하고 있습니다.
-- 블로그에 꾸준히 기록하고 공유하며 성장하고 있습니다. [Blog](https://myeongju00.tistory.com/)
+### I'm Myeongju Jung, Peony. ✨
+- 유지보수가 쉬운 코드와 사용자 중심 설계를 지향합니다.<br/>
+  I pursue maintainable and user-centric backend design.
+- 팀워크와 소통, 코드 리뷰와 문서화를 중요하게 생각합니다.<br/>
+  I value teamwork, communication, code reviews, and documentation.
+- 블로그에 꾸준히 기록하며 성장하고 있습니다.<br/>
+  I grow by consistently sharing insights on my blog. [[Blog]](https://myeongju00.tistory.com/)
 
 </br>
 
@@ -18,25 +20,24 @@
 
 </br>
 
-#### 🛠️ Side Project
-
-- **WOLF** 🐺  
+### 🛠️ Side Project
+- **SYMI(시미)**  `2024.09.03 ~ ing` </br>
+  [사건-생각-감정-행동] 4단계의 일기 작성 가이드를 캐릭터와 함께 제공하여 감정 일기를 쉽게 적을 수 있도록 돕는 서비스  
+  → 로그인, 일기 저장, 닉네임 변경 등 백엔드 기능 구현
+  [Notion](https://myeongju00.notion.site/Simi-135c7567ed3d805094adc75737f79c6a?pvs=74)
+  
+- **🐺 WOLF**  `2024.08.22 ~ 2024.10.25` </br>
   스터디 개설 및 운영을 돕는 통합 학습 커뮤니티 플랫폼  
   → **JWT 로그인, Google OAuth, FCM 푸시 알림, S3 업로드** 등 다양한 백엔드 기능 구현 </br>
   → 프로젝트 리딩 및 협업 환경 구축, 문서화까지 총괄
   [Github](https://github.com/orgs/2024-Wolf/repositories) / [Notion](https://myeongju00.notion.site/Wolf-135c7567ed3d8027bec4f4b0f9760e65?pvs=74)
 
-- **SYMI(시미)**  
-  [사건-생각-감정-행동] 4단계의 일기 작성 가이드를 캐릭터와 함께 제공하여 감정 일기를 쉽게 적을 수 있도록 돕는 서비스  
-  → 로그인, 일기 저장, 닉네임 변경 등 백엔드 기능 구현
-  [Notion](https://myeongju00.notion.site/Simi-135c7567ed3d805094adc75737f79c6a?pvs=74)
-
 </br>
 
-#### 🎓 Education & Award
+### 🎓 Education & Award
 
 - **KDT 유데미 부트캠프 (풀스택 Java)**  
-  `2024.05 ~ 2024.10` (5 months)
+  `2024.05 ~ 2024.10` (5 months) 
   → Java / Spring Boot / Oracle / AWS EC2
   → React, JavaScript, JSP 기반의 프론트엔드 개발 및 API 연동
   → WOLF 프로젝트 최우수상, 최우수 훈련생 선정 🏆  
@@ -55,7 +56,7 @@
 
 </br>
 
-#### 📚Tech Stacks📚
+### 📚Tech Stacks📚
 <h4>💻 Backend</h4>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
